@@ -1,11 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1f1e67f5-6b9a-4577-bf45-63fefa39c1dc" name="Changes" comment="" />
+    <list default="true" id="1f1e67f5-6b9a-4577-bf45-63fefa39c1dc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Lr3/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lr3/job1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lr3/job10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lr3/job2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lr3/job3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lr3/job4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lr3/job5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lr3/job6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lr3/job7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lr3/job8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lr3/job9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2IY5MhRyzdmOks0BUYDRu1ODhdz" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -13,12 +41,88 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="Application.job10">
+    <configuration name="job10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lr3.job10" />
+      <module name="Laba3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lr3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="job6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lr3.job6" />
+      <module name="Laba3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lr3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="job7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lr3.job7" />
+      <module name="Laba3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lr3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="job8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lr3.job8" />
+      <module name="Laba3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lr3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="job9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lr3.job9" />
+      <module name="Laba3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lr3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.job10" />
+        <item itemvalue="Application.job9" />
+        <item itemvalue="Application.job8" />
+        <item itemvalue="Application.job6" />
+        <item itemvalue="Application.job7" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
